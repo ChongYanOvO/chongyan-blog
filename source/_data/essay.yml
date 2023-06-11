@@ -1,0 +1,12 @@
+- title: 随笔
+  subTitle: 重言的随笔记录
+  tips: 
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://bu.dusays.com/2023/06/11/64857a4697020.png
+  essay_list:
+    - content: 有点难受OnO
+      date: 2023/06/01
+  

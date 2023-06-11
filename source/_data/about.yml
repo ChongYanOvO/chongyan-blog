@@ -1,0 +1,94 @@
+- class_name: 关于页
+  subtitle: 生活明朗，万物可爱✨
+  avatarImg: https://cdn.jsdelivr.net/gh/ChongYanOvO/blog-image/avatar.jpg
+  name: 重言
+  description: 是一名 数据开发工程师、学生、独立开发者
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    item:
+      - EDU,计算机科学与技术专业
+    img: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330e9bcc39cc.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://img02.anzhiy.cn/adminuploads/1/2022/09/23/632d634f8376d.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国 南京市
+    background: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632e6f48981d8.jpg
+    backgroundDark: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330ebf1f3e65.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2001
+    selfInfoTips2: 南京信息工程大学
+    selfInfoContent2: 计算机科学与技术
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大三学生👨‍🎓
+  personalities:
+    author_name: 辩论家
+    personality_type: ENTP-A
+    photo_url: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632e9643611ec.jpg
+    personality_img: https://bu.dusays.com/2023/06/11/64857686798d7.png
+    name_url: https://www.16personalities.com/ch/entp-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 生活明朗，
+    maxim_bottom: 万物可爱。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 酸菜鱼
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 原神
+    game_uid: "UID: 125766904"
+    game_bg: https://img02.anzhiy.cn/adminuploads/1/2022/12/19/63a079ca63c8a.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 约定的梦幻岛
+        href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/63988658aa1b1.webp
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/6398864e572ed.webp
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/639886315d658.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/639886403d472.webp
+      - name: JOJO的奇妙冒险 黄金之风
+        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://img02.anzhiy.cn/adminuploads/1/2022/12/13/6398862649585.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632f0dd8f33c6.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 许嵩、民谣、华语流行
+    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
+    music_link: /music
+  # reward_list:
+  #   - name: 海阔蓝
+  #     amount: 8.8
+  #     datatime: 2023-03-28
+
+  extra: false

@@ -1,0 +1,49 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1184e9.jpg
+    - name: Scala
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/06/10/648496716944a.png
+    - name: Python
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+    - name: SQL
+      color: "#4d4d4d"
+      icon: https://bu.dusays.com/2023/06/10/64849853c2e29.webp
+    - name: StreamPark
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/06/10/6484997534d64.png
+    - name: Hadoop
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/06/10/64849671651d8.png
+    - name: Hive
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/06/10/64849671638c2.png
+    - name: Spark
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/06/10/648497ecd6eff.png
+    - name: Flink
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/06/10/6484967163c4c.png\
+    - name: ClickHouse
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/06/10/648499733fc87.png
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/09/643293b0f0abe.png
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+    - name: Apifox
+      color: "#e65164"
+      icon: https://bu.dusays.com/2022/11/19/6378d6458c6b6.png
+    - name: MarkDown
+      color: "#000000"
+      icon: https://bu.dusays.com/2023/06/10/648497329ebad.webp
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png
+    
+      
