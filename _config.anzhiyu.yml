@@ -35,12 +35,12 @@ nav:
       item:
         - name: 博客
           link: https://chongyan.xyz/
-          icon: /img/favicon.ico
+          icon: /img/favicon.svg
     - title: 项目
       item:
         - name: 安知鱼图床
           link: https://image.chongyan.xyz/
-          icon: https://image.chongyan.xyz/favicon.ico
+          icon: https://image.chongyan.xyz/favicon.svg
 
 # Code Blocks (代码相关)
 # --------------------------------------
@@ -113,7 +113,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /img/favicon.ico
+favicon: /img/favicon.svg
 
 # Avatar (头像)
 avatar:
@@ -847,7 +847,7 @@ icons:
 pjax:
   enable: true
   exclude:
-    # - xxxx
+    - /music/
     # - xxxx
 
 # Inject the css and script (aplayer/meting)
@@ -960,9 +960,9 @@ console:
 
 # 51a统计配置
 LA:
-  enable: false
-  ck:
-  LingQueMonitorID:
+  enable: true
+  ck: 3EwK27aMh0dawZKY
+  LingQueMonitorID: 3EwK27aMh0dawZKY
 
 # 标签卖萌
 diytitle:
@@ -1120,7 +1120,7 @@ CDN:
     # pace_default_css:
     # countup_js:
     # gsap_js:
-    busuanzi: http://busuanzi.ibruce.info/
+    busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
     # rightmenu:
     # waterfall:
     # ali_iconfont_css:

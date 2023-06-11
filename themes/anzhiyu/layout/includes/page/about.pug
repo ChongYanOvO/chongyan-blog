@@ -5,7 +5,6 @@ if site.data.about
     - let avatarImg = item.avatarImg || theme.avatar.img
     - let aboutName = item.name || theme.author
     - let aboutDescription = item.description || config.description
-    - let helloAbout = item.helloAbout
     - let skillsTips = item.skillsTips
     - let careers = item.careers
     #about-page
@@ -36,15 +35,6 @@ if site.data.about
               span(data-up)= word[word.length - 2]
               |  
               span(data-show)= word[word.length - 1]
-      
-      .hello-about
-        .cursor(style='translate:none;rotate:none;scale:none;transform:translate(721px,180px)')
-        .shapes
-          .shape.shape-1(style='translate:none;rotate:none;scale:none;transform:translate(721px,180px)')
-          .shape.shape-2(style='translate:none;rotate:none;scale:none;transform:translate(721px,180px)')
-          .shape.shape-3(style='translate:none;rotate:none;scale:none;transform:translate(721px,180px)')
-        .content
-          h1=helloAbout
       
       .author-content
         .author-content-item.skills
@@ -394,19 +384,4 @@ if site.data.about
           clearInterval(pursuitInterval);
         });
 
-        var helloAboutEl = document.querySelector(".hello-about");
-        helloAboutEl.addEventListener("mousemove", evt => {
-          const mouseX = evt.offsetX;
-          const mouseY = evt.offsetY;
-          gsap.set(".cursor", {
-            x: mouseX,
-            y: mouseY,
-          });
-
-          gsap.to(".shape", {
-            x: mouseX,
-            y: mouseY,
-            stagger: -0.1,
-          });
-        });
       })();

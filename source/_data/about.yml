@@ -29,8 +29,8 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国 南京市
-    background: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632e6f48981d8.jpg
-    backgroundDark: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330ebf1f3e65.jpg
+    background: https://bu.dusays.com/2023/06/11/6485d9521379c.png
+    backgroundDark: https://bu.dusays.com/2023/06/11/6485d9a6e854d.png
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2001
@@ -41,7 +41,7 @@
   personalities:
     author_name: 辩论家
     personality_type: ENTP-A
-    photo_url: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632e9643611ec.jpg
+    photo_url: https://bu.dusays.com/2023/06/11/6485d7a5e9c34.jpg
     personality_img: https://bu.dusays.com/2023/06/11/64857686798d7.png
     name_url: https://www.16personalities.com/ch/entp-%E4%BA%BA%E6%A0%BC
   maxim:
