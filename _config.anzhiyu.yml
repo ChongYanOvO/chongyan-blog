@@ -12,7 +12,7 @@ menu:
   分享:
     相册集: /album/ || anzhiyu-icon-images
     随笔: /essay/ || anzhiyu-icon-lightbulb
-    日常: /categories/daily/ || anzhiyu-icon-instagram
+    日常: /categories/生活/ || anzhiyu-icon-instagram
 
   友链:
     朋友们: /link/ || anzhiyu-icon-link
@@ -905,22 +905,22 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 生活明朗
-  subTitle: 万物可爱
+  title: 好好学习
+  subTitle: 天天向上
   siteText:
   category:
     - name: 数据开发
-      path: /categories/bigdata/
+      path: /categories/数据开发/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
     - name: 面试
-      path: /categories/interview/
+      path: /categories/面试/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
     - name: 生活
-      path: /categories/daily/
+      path: /categories/生活/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
