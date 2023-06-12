@@ -2,7 +2,7 @@
   subtitle: 生活明朗，万物可爱✨
   avatarImg: https://cdn.jsdelivr.net/gh/ChongYanOvO/blog-image/avatar.jpg
   name: 重言
-  description: 是一名 数据开发工程师、学生、独立开发者
+  description: 是一名学生 想要成为一名数据开发工程师
   aboutsiteTips:
     tips: 追求
     title1: 源于
@@ -21,14 +21,14 @@
     title: 无限进步
     item:
       - EDU,计算机科学与技术专业
-    img: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330e9bcc39cc.png
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
   statistic:
     link: /archives
     text: 文章归档
     cover: https://bu.dusays.com/2023/06/11/6485d7a5e9c34.jpg
   map:
     title: 我现在住在
-    StrengthenTitle: 中国 南京市
+    StrengthenTitle: 中国 江苏省 南京市
     background: https://bu.dusays.com/2023/06/11/6485d9521379c.png
     backgroundDark: https://bu.dusays.com/2023/06/11/6485d9a6e854d.png
   selfInfo:
@@ -38,7 +38,5 @@
     selfInfoContent2: 计算机科学与技术
     selfInfoTips3: 现在职业
     selfInfoContent3: 大三学生👨‍🎓
-
-
 
   extra: false

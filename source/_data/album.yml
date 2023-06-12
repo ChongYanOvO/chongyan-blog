@@ -1,58 +1,55 @@
-- class_name: 世界各地夕阳与风景
+- class_name: 风景
   path_name: /wordScenery
   type: 2
-  description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
-  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+  description: 那些走过的地方🌄
+  cover: https://bu.dusays.com/2023/06/12/648727550ce1d.jpg
   rowHeight: 220
   limit: 10
   lazyload: true
   btnLazyload: false
   url: false
   album_list:
-    - date: 2022/10/26 01:00:00
-      content: 湘潭的一角。
-      address: 湖南湘潭
-      from: 再吃一口就减肥
+    - date: 2022-03-15 
+      content: 学校的樱花
+      address: 南京信息工程大学
+      from: 学校的樱花开啦
       image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-    - date: 2022-10-25
-      content: 洛阳暴雨后的天空。
-      address: 河南洛阳
-      from: 紫菜卷
-      image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+        - https://bu.dusays.com/2023/06/12/648727550ce1d.jpg
 
 - class_name: 我的日常
   path_name: /dailyPhoto
   type: 1
-  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  description: 照片记录📷
+  cover: https://bu.dusays.com/2023/06/12/64872a8682358.jpg
   rowHeight: 220
   limit: 10
   lazyload: true
   btnLazyload: false
   url: false
   album_list:
-    - date: 2022-10-24
-      content: 老妹的画
+    - date: 2022-03-15
+      content: 学校的樱花
+      address: 南京信息工程大学
+      from: 学校的樱花开啦
       image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+        - https://bu.dusays.com/2023/06/12/648727550ce1d.jpg
 
-- class_name: 我的日常
-  path_name: /dailyPhoto
+
+- class_name: 美食
+  path_name: /foodPhoto
   type: 1
-  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  description: 美食的意义🍔
+  cover: https://bu.dusays.com/2023/06/12/64872c7e5e61e.jpg
   rowHeight: 220
   limit: 10
   lazyload: true
   btnLazyload: false
   url: false
   album_list:
-    - date: 2022-10-24
-      content: 老妹的画
+    - date: 2023-04-02
+      content: 鹅肝 & 牛舌
+      address: 南京
       image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
-
-  
+        - https://bu.dusays.com/2023/06/12/648722159381f.jpg
+        - https://bu.dusays.com/2023/06/12/64872754a8589.jpg
+        
