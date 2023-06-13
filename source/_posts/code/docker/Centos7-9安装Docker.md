@@ -2,11 +2,12 @@
 title: Centos7.9安装Docker
 abbrlink: 372c7897
 date: 2023-06-12 22:52:10
-categories: 环境搭建
-tags: [Docker,CentOS] 
+categories: 
+tags: 
+  - Docker
+  - CentOS
 cover: https://bu.dusays.com/2023/06/12/64873d214e261.png
 ---
-
 ## Centos 7.9 安装 Docker
 
 ### 1. 卸载之前安装的 Docker 版本
