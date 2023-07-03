@@ -4,10 +4,6 @@ menu:
     归档: /archives/ || anzhiyu-icon-box-archive
     分类: /categories/ || anzhiyu-icon-shapes
     标签: /tags/ || anzhiyu-icon-tags
-    
-  我的:
-    音乐馆: /music/?id=7196402220&server=netease || anzhiyu-icon-music
-    关于: /about/ || anzhiyu-icon-paper-plane
 
   分享:
     相册集: /album/ || anzhiyu-icon-images
@@ -20,6 +16,9 @@ menu:
 
   随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
+  我的:
+    音乐馆: /music/?id=7196402220&server=netease || anzhiyu-icon-music
+    关于: /about/ || anzhiyu-icon-paper-plane
 
 # nav相关配置
 nav:
