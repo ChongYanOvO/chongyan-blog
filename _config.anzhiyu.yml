@@ -1,5 +1,4 @@
 menu:
-
   文章:
     归档: /archives/ || anzhiyu-icon-box-archive
     分类: /categories/ || anzhiyu-icon-shapes
@@ -166,7 +165,7 @@ error_img:
 error_404:
   enable: true
   subtitle: "页面没有找到"
-  background: 
+  background:
 
 post_meta:
   page: # Home Page
@@ -929,7 +928,7 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 
+    tips:
     title: 好好学习,天天向上
     image: https://cdn.jsdelivr.net/gh/ChongYanOvO/blog-image/background/essay_top_background.png
     link: essay
@@ -1040,6 +1039,7 @@ inject:
 
   bottom:
     # 自定义js
+    - <script async src="https://umami-inky-one.vercel.app/script.js" data-website-id="d4304303-805f-4b25-99be-e8d0559dc93d"></script>
     # - <script src="/js/xxx"></script>
 
 # CDN
