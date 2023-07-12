@@ -952,12 +952,6 @@ bubble:
 console:
   enable: false
 
-# 51a统计配置
-LA:
-  enable: true
-  ck: 3EwK27aMh0dawZKY
-  LingQueMonitorID: 3EwK27aMh0dawZKY
-
 # 标签卖萌
 diytitle:
   enable: false

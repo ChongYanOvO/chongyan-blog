@@ -65,23 +65,6 @@ if site.data.about
             img.author-content-img.no-lightbox(alt=careers.tips, src=url_for(careers.img) onerror=`this.onerror=null;this.src='` + url_for(theme.error_img.flink) + `'`)
       
       .author-content
-        if theme.LA.enable
-          - let cover = item.statistic.cover
-          .about-statistic.author-content-item(style=`background: url(${cover}) top / cover no-repeat;`)
-            .card-content
-              .author-content-item-tips 数据
-              span.author-content-item-title 访问统计
-              #statistic
-              .post-tips
-                | 统计信息来自 
-                a(href='https://invite.51.la/1NzKqTeb?target=V6', target='_blank', rel='noopener nofollow') 51la网站统计
-              .banner-button-group
-                - let link = item.statistic.link
-                - let text = item.statistic.text
-                a.banner-button(onclick=`pjax.loadUrl("${link}")`)
-                  i.anzhiyufont.anzhiyu-icon-arrow-circle-right
-                  |  
-                  span.banner-button-text=text
         .author-content-item-group.column.mapAndInfo
           - let mapBackground = item.map.background
           - let mapBackgroundDark = item.map.backgroundDark
