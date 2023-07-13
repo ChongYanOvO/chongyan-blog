@@ -32,10 +32,9 @@ LeetCode 第 229 题 {% label 中等题 orange %}
 > 输出：[1,2]
 
 {% folding yellow, 查看提示 %}
-
 - `1 <= nums.length <= 5 * 104`
 - `-109 <= nums[i] <= 109`
-  {% endfolding %}
+{% endfolding %}
 
 进阶：尝试设计时间复杂度为 $$O(n)$$、空间复杂度为 $$O(1)$$的算法解决此问题。
 
