@@ -1,8 +1,7 @@
 ---
 title: 多数元素II
-categories: 算法
+categories: LeetCode
 tags:
-  - LeetCode
   - 摩尔投票
   - 哈希表
 cover: "https://bu.dusays.com/2023/06/13/64880f6b82d0c.png"

@@ -169,13 +169,13 @@ error_404:
 
 post_meta:
   page: # Home Page
-    date_type: both # created or updated or both 主页文章日期是创建日或者更新日或都显示
+    date_type: created # created or updated or both 主页文章日期是创建日或者更新日或都显示
     date_format: relative # date/relative 显示日期还是相对日期
     categories: true # true or false 主页是否显示分类
     tags: true # true or false 主页是否显示标籤
     label: true # true or false 显示描述性文字
   post:
-    date_type: both # created or updated or both 文章页日期是创建日或者更新日或都显示
+    date_type: created # created or updated or both 文章页日期是创建日或者更新日或都显示
     date_format: date # date/relative 显示日期还是相对日期
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
@@ -244,7 +244,7 @@ post_edit:
 related_post:
   enable: true
   limit: 6 # Number of posts displayed
-  date_type: updated # or created or updated 文章日期显示创建日或者更新日
+  date_type: created # or created or updated 文章日期显示创建日或者更新日
 
 # figcaption (图片描述文字)
 photofigcaption: false
