@@ -918,7 +918,7 @@ home_top:
       class: red
       icon: anzhiyu-icon-fire
     - name: 生活
-      path: /categories/生活/
+      path: /categories/album/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
@@ -930,7 +930,7 @@ home_top:
   banner:
     tips:
     title: 好好学习,天天向上
-    image: https://cdn.jsdelivr.net/gh/ChongYanOvO/blog-image/background/essay_top_background.png
+    image: https://bu.dusays.com/2023/07/25/64bfe53eb3860.jpg
     link: essay
 
 # 朋友圈配置
@@ -991,7 +991,7 @@ essay:
   button: 关于我
   buttonLink: /about/
   limit: 30
-  top_background: https://cdn.jsdelivr.net/gh/ChongYanOvO/blog-image/background/essay_top_background.png
+  top_background: https://bu.dusays.com/2023/07/25/64bfe53eb3860.jpg
 
 # ptool 文章底部工具
 ptool:
