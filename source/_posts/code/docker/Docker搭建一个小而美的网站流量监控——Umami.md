@@ -1,6 +1,6 @@
 ---
 title: Docker搭建一个小而美的网站流量监控——Umami
-categories: 运维
+categories: 环境配置
 tags:
   - Docker
   - DockerCompose

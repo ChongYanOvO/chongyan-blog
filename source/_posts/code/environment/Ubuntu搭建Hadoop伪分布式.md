@@ -1,6 +1,6 @@
 ---
 title: Ubuntu搭建Hadoop伪分布式
-categories: 数据开发
+categories: 环境配置
 tags:
   - Ubuntu
   - Hadoop

@@ -1,6 +1,6 @@
 ---
 title: DockerCompose搭建ClickHouse单机版
-categories: 运维
+categories: 环境配置
 tags: [Docker,DockerCompose,ClickHouse]
 cover: 'https://bu.dusays.com/2023/06/12/64873d2155cfa.png'
 abbrlink: 9491c2eb

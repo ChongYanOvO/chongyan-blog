@@ -2,7 +2,7 @@
 title: Centos7.9安装Docker
 abbrlink: 372c7897
 date: 2023-06-12 22:52:10
-categories: 
+categories: 环境配置
 tags: 
   - Docker
   - CentOS

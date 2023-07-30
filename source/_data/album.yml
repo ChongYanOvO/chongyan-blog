@@ -33,6 +33,12 @@
       from: 学校的樱花开啦
       image:
         - https://bu.dusays.com/2023/06/12/648727550ce1d.jpg
+    - date: 2022-06-09
+      content: 焦点科技挑战赛
+      address: 焦点科技大厦
+      from: 来焦点参加挑战赛啦
+      image:
+        - https://bu.dusays.com/2023/07/30/64c61f472ea05.jpg      
 
 
 - class_name: 美食
@@ -52,4 +58,10 @@
       image:
         - https://bu.dusays.com/2023/06/12/648722159381f.jpg
         - https://bu.dusays.com/2023/06/12/64872754a8589.jpg
+    - date: 2023-06-16
+      content: 铁锅炖 & 地锅鸡
+      address: 南京
+      image:
+        - https://bu.dusays.com/2023/07/30/64c61f225cb58.jpg
+
         

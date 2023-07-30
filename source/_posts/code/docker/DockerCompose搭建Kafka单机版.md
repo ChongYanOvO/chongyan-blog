@@ -1,6 +1,6 @@
 ---
 title: DockerCompose搭建Kafka单机版
-categories: 运维
+categories: 环境配置
 tags:
   - Docker
   - DockerCompose

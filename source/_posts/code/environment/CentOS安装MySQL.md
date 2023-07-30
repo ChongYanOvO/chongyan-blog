@@ -1,6 +1,6 @@
 ---
 title: CentOS安装MySQL
-categories: 运维
+categories: 环境配置
 tags:
   - CentOS
   - MySQL

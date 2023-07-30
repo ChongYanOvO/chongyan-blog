@@ -1,6 +1,6 @@
 ---
 title: 线上调试Arthas的学习使用
-categories: 运维
+categories: 数据开发
 tags:
   - Arthas
   - Java

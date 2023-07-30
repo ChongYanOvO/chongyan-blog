@@ -4,7 +4,7 @@ menu:
     分类: /categories/ || anzhiyu-icon-shapes
     标签: /tags/ || anzhiyu-icon-tags
 
-  分享:
+  生活:
     相册集: /album/ || anzhiyu-icon-images
     随笔: /essay/ || anzhiyu-icon-lightbulb
     日常: /categories/生活/ || anzhiyu-icon-instagram
@@ -16,6 +16,7 @@ menu:
   随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
   我的:
+    小空调: /air-conditioner/ || anzhiyu-icon-air-conditioner
     音乐馆: /music/?id=7196402220&server=netease || anzhiyu-icon-music
     关于: /about/ || anzhiyu-icon-paper-plane
 
@@ -918,7 +919,7 @@ home_top:
       class: red
       icon: anzhiyu-icon-fire
     - name: 生活
-      path: /categories/album/
+      path: /album/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book

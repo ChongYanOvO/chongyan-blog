@@ -1,6 +1,6 @@
 ---
 title: 多数元素II
-categories: LeetCode
+categories: 算法
 tags:
   - 摩尔投票
   - 哈希表
