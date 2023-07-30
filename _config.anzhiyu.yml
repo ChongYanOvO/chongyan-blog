@@ -698,17 +698,17 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
     enable: false
-    limit: 8 # if set 0 will show all
+    limit: 5 # if set 0 will show all
     expand: none # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
     enable: true
-    limit: 40 # if set 0 will show all
-    color: false
+    limit: 20 # if set 0 will show all
+    color: true
     sort_order: # Don't modify the setting unless you know how it works
     highlightTags:
-      - Hexo
-      - 前端
+      # - LeetCode
+      # - Docker
   card_archives:
     enable: true
     type: monthly # yearly or monthly
@@ -1034,7 +1034,7 @@ inject:
 
   bottom:
     # 自定义js
-    - <script async src="https://umami-inky-one.vercel.app/script.js" data-website-id="d4304303-805f-4b25-99be-e8d0559dc93d"></script>
+    - <script async src="https://analytics.umami.is/script.js" data-website-id="6a6c8c9b-aaf1-4b0c-acc0-409b3bfb7e8e"></script>
     # - <script src="/js/xxx"></script>
 
 # CDN

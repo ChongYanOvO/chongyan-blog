@@ -3,6 +3,7 @@
   type: 2
   description: 那些走过的地方🌄
   cover: https://bu.dusays.com/2023/06/12/648727550ce1d.jpg
+  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
   rowHeight: 220
   limit: 10
   lazyload: true
