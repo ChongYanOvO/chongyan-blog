@@ -3,7 +3,7 @@
   type: 2
   description: 那些走过的地方🌄
   cover: https://bu.dusays.com/2023/06/12/648727550ce1d.jpg
-  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  top_background: https://bu.dusays.com/2023/06/13/64880f6b0d52c.png
   rowHeight: 220
   limit: 10
   lazyload: true
@@ -22,6 +22,7 @@
   type: 1
   description: 照片记录📷
   cover: https://bu.dusays.com/2023/06/12/64872a8682358.jpg
+  top_background: https://bu.dusays.com/2023/06/13/648837ab4e1e8.png
   rowHeight: 220
   limit: 10
   lazyload: true
@@ -46,7 +47,8 @@
   path_name: /foodPhoto
   type: 1
   description: 美食的意义🍔
-  cover: https://bu.dusays.com/2023/06/12/64872c7e5e61e.jpg
+  cover: https://bu.dusays.com/2023/07/30/64c66c61315c2.png
+  top_background: https://bu.dusays.com/2023/07/30/64c66c61315c2.png
   rowHeight: 220
   limit: 10
   lazyload: true
