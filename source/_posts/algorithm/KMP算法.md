@@ -1,11 +1,14 @@
 ---
 title: KMP算法
-date: 2023-07-31 11:41:31
 categories: 算法
 tags:
   - KMP
   - 字符串
 cover: 'https://bu.dusays.com/2023/07/31/64c7ac61b5f73.png'
+description: KMP算法
+ai: true
+abbrlink: 2da0528d
+date: 2023-07-31 11:41:31
 ---
 
 
