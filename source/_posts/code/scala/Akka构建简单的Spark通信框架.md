@@ -6,6 +6,7 @@ tags:
   - Akka
   - Spark
 cover: 'https://bu.dusays.com/2023/06/13/64880f6b4a20d.png'
+ai: true
 abbrlink: a2e68d58
 date: 2023-06-13 17:14:52
 ---

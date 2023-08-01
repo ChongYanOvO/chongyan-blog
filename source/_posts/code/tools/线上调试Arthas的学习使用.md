@@ -5,6 +5,7 @@ tags:
   - Arthas
   - Java
 cover: 'https://bu.dusays.com/2023/07/03/64a2cf9417766.png'
+ai: true
 abbrlink: '68784837'
 date: 2023-07-06 15:19:51
 ---
