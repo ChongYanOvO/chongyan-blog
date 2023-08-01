@@ -1017,7 +1017,7 @@ post_head_ai_description:
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
   key: KOxMi57lDp5pJ6XZyThj
-  Referer: http://127.0.0.1:4000/
+  Referer: https://www.chongyan.xyz/
 
 # 快捷键配置
 shortcutKey:
