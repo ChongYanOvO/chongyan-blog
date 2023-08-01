@@ -174,13 +174,13 @@ post_meta:
     date_format: relative # date/relative 显示日期还是相对日期
     categories: true # true or false 主页是否显示分类
     tags: true # true or false 主页是否显示标籤
-    label: true # true or false 显示描述性文字
+    label: false # true or false 显示描述性文字
   post:
     date_type: created # created or updated or both 文章页日期是创建日或者更新日或都显示
-    date_format: date # date/relative 显示日期还是相对日期
+    date_format: relative # date/relative 显示日期还是相对日期
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
-    label: true # true or false 显示描述性文字
+    label: false # true or false 显示描述性文字
     mainTone: false # true or false 文章顶部图片是否使用主色调
 
 # wordcount (字数统计)
@@ -517,7 +517,7 @@ theme_color:
 table_interlaced_discoloration: false
 
 # 首页双栏显示
-article_double_row: false
+article_double_row: true
 
 # The top_img settings of home page
 # default: top img - full screen, site info - middle (默认top_img全屏，site_info在中间)
@@ -1005,7 +1005,7 @@ ptool:
 
 # 欢迎语配置
 greetingBox:
-  enable: false
+  enable: true
 
 # 文章顶部ai摘要
 post_head_ai_description:
@@ -1017,11 +1017,11 @@ post_head_ai_description:
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
   key: KOxMi57lDp5pJ6XZyThj
-  Referer: https://www.chongyan.xyz/
+  Referer: http://127.0.0.1:4000/
 
 # 快捷键配置
 shortcutKey:
-  enable: false
+  enable: true
   delay: 300 # shift按下延时多久开启
 
 # Inject
@@ -1035,6 +1035,8 @@ inject:
   bottom:
     # 自定义js
     - <script async src="https://analytics.umami.is/script.js" data-website-id="6a6c8c9b-aaf1-4b0c-acc0-409b3bfb7e8e"></script>
+    - <script>let tianliGPT_postSelector = '\#post \#article-container';let tianliGPT_key = 'KOxMi57lDp5pJ6XZyThj';</script>
+	  - <script src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.7/tianli_gpt.js"></script>
     # - <script src="/js/xxx"></script>
 
 # CDN
