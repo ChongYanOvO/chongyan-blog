@@ -8,10 +8,10 @@ tags:
   - HashSet
   - treeMap
   - 集合类
+ai: true
 cover: 'https://bu.dusays.com/2023/06/13/64880f6b4a20d.png'
 abbrlink: 8f303c09
 date: 2023-08-03 17:00:53
-ai: true
 ---
 # HashMap和常用集合类的区别
 
